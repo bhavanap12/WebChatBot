@@ -40,7 +40,17 @@ Once an URL is entered, chat page appears
 
 
 
-
 An example image of the chat
 ![Screenshot 2024-04-09 190230](https://github.com/bhavanap12/WebChatBot/assets/23119773/bf621c59-4399-42b5-9254-3a69c16af3fb)
 
+
+
+
+
+## Technologies and Languages Used
+
+* Python
+* Streamlit
+* Langchain
+* Beautifulsoup
+* ChromaDB
