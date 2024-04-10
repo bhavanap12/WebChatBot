@@ -29,15 +29,18 @@ streamlit run app.py
 ### Demo Images
 ---
 The home page looks like this
-![Screenshot 2024-04-09 190249](https://github.com/bhavanap12/WebChatBot/assets/23119773/f634bbd4-38e7-44ae-8eb6-b9562ec5e494)
+![Screenshot 2024-04-09 190249](https://github.com/bhavanap12/WebChatBot/assets/23119773/745f35e7-347b-421b-9ab3-c2b338603da5)
+
 
 
 
 Once an URL is entered, chat page appears
-![Screenshot 2024-04-09 194516](https://github.com/bhavanap12/WebChatBot/assets/23119773/e9cd2877-c4c5-4b77-91f6-8cbecf1837dd)
+![Screenshot 2024-04-09 194516](https://github.com/bhavanap12/WebChatBot/assets/23119773/d4133ba1-313e-44ab-b3be-2971ed35d8bf)
+
 
 
 
 
 An example image of the chat
-![Screenshot 2024-04-09 190230](https://github.com/bhavanap12/WebChatBot/assets/23119773/1e563b32-7ca9-477f-af78-0408b14d567f)
+![Screenshot 2024-04-09 190230](https://github.com/bhavanap12/WebChatBot/assets/23119773/bf621c59-4399-42b5-9254-3a69c16af3fb)
+
