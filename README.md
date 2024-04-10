@@ -1,7 +1,7 @@
 # WebChatBot
 A chatbot to interact with any website
 
-A demo of this project is available at [Demo](https://youtu.be/XREDlQQ9DD0)
+A demo of this project is available at [Demo](https://youtu.be/BPFOKpxZlhs)
 
 This is a Python based project implemented using OpenAI Large Language Models, Langchain Framework and Streamlit GUI. It takes a website URL as the input and let's the user chat about the content in the website.
 
